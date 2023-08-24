@@ -21,3 +21,12 @@ We used different mathematical models to simulate and represent the network elem
   <li>Node Class: represents the nodes or switch in the OTN network, able to add/drop local traffic.</li>
   <li>Line class: The line or optical fiber between two nodes, with each line having 10 channels each to allow for different frequency slots</li>
 </ol>
+![image](https://github.com/troopermsk/OVNRepo/assets/118739430/228590d5-851a-4939-96c8-c3d0556341b5)
+
+![image](https://github.com/troopermsk/OVNRepo/assets/118739430/2a82ac4a-0d08-4d87-9c0b-ded5782a9339)
+
+![image](https://github.com/troopermsk/OVNRepo/assets/118739430/be85e78a-8a43-465f-9b14-02cf2a48fd59)
+
+![image](https://github.com/troopermsk/OVNRepo/assets/118739430/c8724c12-ad09-419e-9766-309283cc31cc)
+
+![image](https://github.com/troopermsk/OVNRepo/assets/118739430/14ae4439-758d-4c5a-a376-ec241ddd92a7)
